@@ -1,3 +1,16 @@
+import subprocess
+
+command = "pip install cryptography"
+
+result = subprocess.run(command, shell=True, capture_output=True, text=True)
+
+print("Installing Cryptography:")
+print(result.stdout)
+
+print("Return Code:", result.returncode)
+
+
+
 import webbrowser
 
 def open_links(text):
