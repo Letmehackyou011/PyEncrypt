@@ -4,7 +4,7 @@
 
 # Requiremnts 
 ## Cryptograghy Library ##
-**Paste this code on your terminal**
+**If not installed by the code paste this code on your terminal**
 ```
 pip install cryptography
 ```
