@@ -11,4 +11,5 @@ cd PyEncrypt
 python3 PyEncrypt.py
 ```
 
-<h1>I am currently working on a secrect project. I will revealing soon :)<h1>
+Watch this new tool [Phanix](https://github.com/Letmehackyou011/Phanix).
+
